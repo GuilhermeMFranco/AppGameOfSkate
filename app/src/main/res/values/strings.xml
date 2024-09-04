@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AppSkate</string>
+    <string name="button_comecar">COMEÇAR</string>
+    <string name="avan_ar">AVANÇAR</string>
+    <string name="manobra">Manobra:</string>
+    <string name="saindo">SAIR</string>
+    <string name="pontua_o_0">Pontuação: 0</string>
+    <string name="escolher_manobra_1_description">Manobra no chão - Opção 1</string>
+    <string name="escolher_manobra_3_description">Manobra na pista principal</string>
+    <string name="Acertou">Acertou</string>
+    <string name="Errou">Errou</string>
+    <string name="escolher_manobra_na_pista">Pista</string>
+    <string name="corrim_o">Corrimão</string>
+    <string name="manobra_no_chao">Chão</string>
+    <string name="errou_button_description">Erro na manobra</string>
+    <string name="reset_button_description">Reiniciar jogo</string>
+    <string name="reset_level_description">Reset</string>
+    <string name="info_button_description">Informações do jogo</string>
+    <string name="acertou_button_description">Manobra no chão - Acertou</string>
+    <string name="manobra_no_corrimao">Manobra no corrimao</string>
+    <string name="todo">TODO</string>
+    <string name="Info">TODO</string>
+    <string name="informacao">TODO</string>
+    <string name="info">TODO</string>
+
+
+</resources>

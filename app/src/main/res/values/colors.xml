@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="dark_blue">#08264a</color>
+    <color name="pink">#9c27b0</color>
+    <color name="toolbar">#181818</color>
+    <color name="roxoNeon">#D300FF</color>
+    <color name="neonRoxon">#B205FE</color>
+    <color name="AzulNeon">#1F51FF</color>
+    <color name="vermelho">#EA4335</color>
+    <color name="verdeNeon">#05F700</color>
+
+</resources>
